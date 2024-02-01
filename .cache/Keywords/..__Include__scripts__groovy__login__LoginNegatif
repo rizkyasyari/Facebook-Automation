@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7B0117999B401EA883E4871EC1CCF5DD",
+  "keywordClasses": [
+    {
+      "name": "login.LoginNegatif",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
